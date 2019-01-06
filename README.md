@@ -1,4 +1,4 @@
-# Walmart-Sales-Firecast
+# Walmart-Sales-Forecast
 Forecasting the Sales Trend based on the historical data
 This is a Kaggle problem and you can find the problem statement and dataset in the link: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
 
