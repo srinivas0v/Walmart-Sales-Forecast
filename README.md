@@ -12,4 +12,4 @@ This is a Kaggle problem and you can find the problem statement and dataset in t
     4) Generating features and lable data to run the models and train them with the train x and train y
     5) Running the test data on the model and checking the accuracy with test y and the predictions from the model on test x
 * Compared the accuracy of the three models(Linear Regression model, Random Forest and Extra Tress Regression)
-* Extra Tress Regression model is the most accurate model for thos model
+* Extra Tress Regression model is the most accurate model for this forecast.
